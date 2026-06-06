@@ -1,2 +1,2 @@
-# Nocturne-Converter
-Yes. also, why are you here? your suppose to be in the website, not in the repo. breh.
+# Nocturne-Piano Auto Player and MIDI Converter
+Yes. Also, why are you here? Your suppose to be on the website, not in the repo. breh.
